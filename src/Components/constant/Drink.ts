@@ -1,12 +1,5 @@
 
 
-interface MenuItem {
-    name: string
-    description: string
-    calories: number
-    price: number
-    highlight?: boolean
-  }
   
 export const DrinksItem = [
   {

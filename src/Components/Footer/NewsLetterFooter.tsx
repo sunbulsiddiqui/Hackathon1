@@ -6,7 +6,8 @@ export default function NewsletterSection() {
 <h2 className="text-3xl font-bold mb-4">
           <span className="text-[#FF9F0D]">Still</span> You Need Our Support ?
         </h2>
-        <p className="mb-6">Don't wait make a smart & logical quote here. Its pretty easy.</p>
+        <p>Don&apos;t forget to subscribe!</p>
+        {/* <p className="mb-6">Don't wait make a smart & logical quote here. Its pretty easy.</p> */}
 </div>
 
         <form className="w-[459px] h-[55.86px] flex max-w-2xl mx-auto">
